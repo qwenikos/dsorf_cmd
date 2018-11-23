@@ -1,0 +1,4 @@
+#! /bin/bash
+source ../../../dsorf/online/virtualEnv/venv3/bin/activate
+./exampleRun_withSeq.sh
+
